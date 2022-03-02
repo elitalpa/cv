@@ -8,10 +8,10 @@
 >I am interested in a lot of projects and I like learning new things.
 
 - Website : [eli-talpa.com](https://eli-talpa.com)
-
+<!--
 ## INTERESTS
 - Self-hosting
-- Linux
+- Linux-->
 
 ## PROJECTS
 *available soon*
