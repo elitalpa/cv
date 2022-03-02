@@ -5,3 +5,6 @@ curriculum vitae
 >I like solving problems and self learning.
 >I am interested in a lot of projects and I like learning new things.
 
+## Interests
+- Self-hosting
+- Linux
