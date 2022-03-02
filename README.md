@@ -12,3 +12,6 @@
 ## INTERESTS
 - Self-hosting
 - Linux
+
+## PROJECTS
+*available soon*
