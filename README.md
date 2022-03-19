@@ -14,4 +14,5 @@
 - Linux-->
 
 ## PROJECTS
-*available soon*
+* (Bash scripting)[https://github.com/elitalpa/bash_scripting]
+*more available soon*
